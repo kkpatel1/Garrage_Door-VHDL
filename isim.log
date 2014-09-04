@@ -1,0 +1,31 @@
+ command line:
+   E:\Programs\VHDL\Garrage_Door\GARRAGE_DOOR_TBW_tbxr.exe
+     -intstyle  ise
+     -tclbatch  genExpectedResults.cmd
+
+Fri Mar 21 10:13:47 2014
+
+Total Line Count = 747
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 61.0427 Meg. 
+
+ Total signals 8
+ Total nets 5
+ Total signal drivers 5
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 6
+isim batch on 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+quit 
+
+ Simulation time 0.015625 sec.
+
+ Estimate current memory usage 69.2552 Meg. 
+
+Fri Mar 21 10:13:47 2014
+
